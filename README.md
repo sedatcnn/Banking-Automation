@@ -1,1 +1,1 @@
-# Banking-Automaiton
+# Banking-Automation
